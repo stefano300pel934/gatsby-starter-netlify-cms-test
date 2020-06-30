@@ -1,0 +1,21 @@
+---
+templateKey: blog-post
+title: WELLLLLLLAAAAAA
+date: 2020-06-30T19:48:29.615Z
+description: fdsfsfsdfdssf
+featuredpost: true
+featuredimage: /img/paesaggio.jpg
+tags:
+  - gree erba
+---
+ sdfffffffffffffffffffffffffffffffffffffffffffff   sdfffffffffffffffffffffffffffffffffffffffffffff   sdfffffffffffffffffffffffffffffffffffffffffffff   sdfffffffffffffffffffffffffffffffffffffffffffff
+
+ sdfffffffffffffffffffffffffffffffffffffffffffff   sdfffffffffffffffffffffffffffffffffffffffffffff   sdfffffffffffffffffffffffffffffffffffffffffffff   sdfffffffffffffffffffffffffffffffffffffffffffff
+
+ sdfffffffffffffffffffffffffffffffffffffffffffff   sdfffffffffffffffffffffffffffffffffffffffffffff   sdfffffffffffffffffffffffffffffffffffffffffffff   sdfffffffffffffffffffffffffffffffffffffffffffff
+
+ sdfffffffffffffffffffffffffffffffffffffffffffff   sdfffffffffffffffffffffffffffffffffffffffffffff   sdfffffffffffffffffffffffffffffffffffffffffffff   sdfffffffffffffffffffffffffffffffffffffffffffff
+
+ sdfffffffffffffffffffffffffffffffffffffffffffff   sdfffffffffffffffffffffffffffffffffffffffffffff   sdfffffffffffffffffffffffffffffffffffffffffffff   sdfffffffffffffffffffffffffffffffffffffffffffff
+
+ sdfffffffffffffffffffffffffffffffffffffffffffff   sdfffffffffffffffffffffffffffffffffffffffffffff   sdfffffffffffffffffffffffffffffffffffffffffffff   sdfffffffffffffffffffffffffffffffffffffffffffff
